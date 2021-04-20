@@ -6,8 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 @SpringBootApplication
-//@EnableDiscoveryClient
-//@EnableEurekaClient
 public class EmsApplication {
 
 	public static void main(String[] args) {
